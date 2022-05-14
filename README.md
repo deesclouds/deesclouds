@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋🏾Hello there! I'm Dee. 😊 
 
-<!--
-**deesclouds/deesclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a software engineer, pet-lover and a curator of magical experiences.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building APIs.
+- 🌱 I’m currently learning Javascript, React, Node, Express, & MongoDB.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about what I've learned recently.
+- 📫 How to reach me: Twitter - @deesclouds
+- 😄 Pronouns: He/Him | They/Them
+- ⚡ Fun fact: I love house music.
+
+[website]: https://deesclouds.world
+[twitter]: https://twitter.com/deesclouds
+[linkedin]: https://linkedin.com/in/deesclouds
