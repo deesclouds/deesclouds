@@ -1,6 +1,6 @@
 ### 👋🏾Hello there! I'm Dee. 😊 
 
-## I'm a software engineer, pet-lover and a curator of magical experiences.
+## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
 
 Here are some ideas to get you started:
 
