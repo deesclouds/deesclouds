@@ -2,8 +2,7 @@
 
 ## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
 
-Here are some ideas to get you started:
-
+- 🌴 Currently residing in Long Beach, California
 - 🔭 I’m currently working on building APIs.
 - 🌱 I’m currently learning Javascript, React, Node, Express, & MongoDB.
 - 👯 I’m looking to collaborate on Open Source Projects.
