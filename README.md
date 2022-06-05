@@ -1,6 +1,6 @@
 ### 👋🏾Hello there! I'm Dee. 😊 
 
-![dreamy clouds](https://i.ibb.co/KVxZj5s/github-banner.jpg)
+![dreamy clouds](https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg)
 
 ## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
 
