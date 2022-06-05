@@ -9,7 +9,7 @@
 - 💬 Ask me about what I've learned recently.
 - 📫 How to reach me: Twitter - @deesclouds
 - 😄 Pronouns: He/Him | They/Them
-- ⚡ Fun fact: I love house music.
+- ⚡ Fun fact: I love house music especially while coding.
 
 [website]: https://deesclouds.world
 [twitter]: https://twitter.com/deesclouds
