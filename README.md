@@ -8,7 +8,7 @@
 - 🌴 Residing in Long Beach, California
 - 🔭 Working on building APIs.
 - 🌱 Learning Javascript, React, NodeJS, ExpressJS, & MongoDB. 
-- 👯 Looking to collaborate on Open Source Projects. 
+- 👯 Looking to freelance and collaborate on Open Source Projects. 
 - 💬 Ask me about what I've learned recently.
 - 📫 How to reach me: Twitter - @deesclouds
 - 😄 Pronouns: He/Him | They/Them
