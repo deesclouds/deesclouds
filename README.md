@@ -1,5 +1,3 @@
-![deesclouds (2240 x 900px) (2240 x 600px)]("https://i.ibb.co/cQHHN9j/pexels-magda-ehlers-2114014.jpg" alt="image of dreamy clouds" border="0"></a>
-
 ### 👋🏾Hello there! I'm Dee. 😊 
 
 ## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
