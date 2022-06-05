@@ -7,7 +7,7 @@
 
 - 🌴 Currently residing in Long Beach, California
 - 🔭 I’m currently working on building APIs.
-- 🌱 I’m currently learning Javascript, React, Node, Express, & MongoDB.
+- 🌱 I’m currently learning Javascript, React, NodeJS, ExpressJS, & MongoDB. 
 - 👯 I’m looking to collaborate on Open Source Projects. 
 - 💬 Ask me about what I've learned recently.
 - 📫 How to reach me: Twitter - @deesclouds
