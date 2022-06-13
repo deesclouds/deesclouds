@@ -1,10 +1,8 @@
-### 👋🏾Hello there! I'm Dee. 😊 
-
 <img src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" width="100%">
 
+### 👋🏾Hello there! I'm Darnell "Dee" Davis. 😊 
 
-## About Me:
- * I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
+## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
 
  * 🌴 Residing in Long Beach, California
  * 🔭 Working on building APIs.
