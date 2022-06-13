@@ -17,7 +17,7 @@
 ![Languages and Tools]<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" /></p>
 
 ## Stats:
-<p align="center">![deesclouds' GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight)</p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight"></p> 
 
 <br>
 
