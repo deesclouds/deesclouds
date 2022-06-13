@@ -19,8 +19,6 @@
 ## Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight" alt="git stats"></p> 
 
-<br>
-
 ##Connect with me:
 <p align="center>
  <a href="https://twitter.com/deesclouds" alt="deesclouds twitter" target="_blank"><img src="https://img.shields.io/badge/-@deesclouds-1a1b27?logo=twitter&logoColor=70a5fd&style=plastic"/></a>
