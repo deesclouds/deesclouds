@@ -1,6 +1,7 @@
 <img src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" width="100%">
 
-### 👋🏾Hello there! I'm Darnell "Dee" Davis. 😊 
+###
+<h1 align="center">Hello there!<img src="https:raw.gitubusercontent.com/MartinHeinz/MartinHeinz/maseter/wave.gif"> I'm Darnell "Dee" Davis. 😊 </h1>
 
 ## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
 
@@ -21,7 +22,7 @@
 
 <br>
 
-##Socials:
+##Connect with me:
 <p align="center>
  <a href="https://twitter.com/deesclouds" alt="deesclouds twitter" target="_blank"><img src="https://img.shields.io/badge/-@deesclouds-1a1b27?logo=twitter&logoColor=70a5fd&style=plastic"/></a>
  <a href="https://linkedin.com/in/deesclouds" alt="deesclouds linkedin" target="_blank"><img src="https://img.shields.io/badge/-Darnell Davis-1a1b27?logo=linkedin&logoColor=70a5fd&style=plastic"/></a> 
