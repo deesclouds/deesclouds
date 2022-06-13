@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic" alt="visitor counter"/></p>
 
-<h3 align="center">I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.</h3>
+<h3 align="center">I'm a Software Engineer, Cat Dad & Curator of Magical Experiences.</h3>
 
  * 🌴 Residing in Long Beach, California
  * 🔭 Working on building APIs.
