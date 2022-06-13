@@ -1,6 +1,6 @@
 ### 👋🏾Hello there! I'm Dee. 😊 
 
-<p align="center">![dreamy clouds](https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg)</p>
+<img src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" width="100%">
 
 
 ## About Me:
