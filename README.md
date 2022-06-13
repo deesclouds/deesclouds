@@ -27,4 +27,4 @@
 
 <br>
 
-<p align="center">![deesclouds' Views Counter](https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic)</p> 
+<p align="center"><a href="https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic" alt="visitor counter"/></p> 
