@@ -2,6 +2,10 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hello"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
 
+<br>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic" alt="visitor counter"/></p>
+
 <h3 align="center">I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.</h3>
 
  * 🌴 Residing in Long Beach, California
@@ -25,6 +29,4 @@
  <a href="https://linkedin.com/in/deesclouds" alt="deesclouds linkedin" target="_blank"><img src="https://img.shields.io/badge/-Darnell Davis-1a1b27?logo=linkedin&logoColor=70a5fd&style=plastic"/>
  <a href="maillto:deescloud+github@protonmail.com" alt="deesclouds email" target="_blank"><img src="https://img.shields.io/badge/-deescloud+github@protonmail.com-1a1b27?logo=protonmail&logoColor=70a5fd&style=plastic"/></p>
 
-<br>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic" alt="visitor counter"/></p> 
+ 
