@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" height="175"/></a>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hello"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
 
 <h3 align="center">I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.</h3>
 
@@ -14,10 +14,10 @@
  * ⚡ Fun fact: I love house music especially while coding.
 
 ## Languages and Tools:
-![Languages and Tools]<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" /></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" alt="language and tools"/></p>
 
 ## Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight"></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight" alt="git stats"></p> 
 
 <br>
 
