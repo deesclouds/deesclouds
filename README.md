@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" height="175"/></a>
 
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Darnell "Dee" Davis. 😊 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
 
 <h3 align="center">I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.</h3>
 
