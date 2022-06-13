@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/XSTFLRF/github-banner-1500x500.jpg" width="100%">
 
 ###
-<h1 align="center">Hello there!<img src="https:raw.gitubusercontent.com/MartinHeinz/MartinHeinz/maseter/wave.gif"> I'm Darnell "Dee" Davis. 😊 </h1>
+<h1 align="center">Hello there!<img src="https:raw.gitubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Darnell "Dee" Davis. 😊 </h1>
 
-## I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.
+<h3 align="center">I'm a Software Engineer, Cat Dad & a Curator of Magical Experiences.</h3>
 
  * 🌴 Residing in Long Beach, California
  * 🔭 Working on building APIs.
@@ -14,8 +14,8 @@
  * 😄 Pronouns: He/Him | They/Them
  * ⚡ Fun fact: I love house music especially while coding.
 
-## Technologies:
-![Technologies]<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" /></p>
+## Languages and Tools:
+![Languages and Tools]<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=8" /></p>
 
 ## Stats:
 <p align="center">![deesclouds' GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight)</p> 
