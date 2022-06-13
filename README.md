@@ -14,6 +14,8 @@
  - 😄 Pronouns: He/Him | They/Them
  - ⚡ Fun fact: I love house music especially while coding.
 
+![](https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=HOW+MANY+INTELLIGENT+LIFEFORMS+VISITED:&style=plastic) //visitors section
+
 ![deesclouds' GitHub stats](https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight) 
 
 [website]: https://deesclouds.world
