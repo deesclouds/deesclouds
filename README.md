@@ -16,7 +16,7 @@
 
 <br>
 
-![deesclouds' Views Counter](https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=HOW+MANY+INTELLIGENT+LIFEFORMS+VISITED:&style=plastic) 
+![deesclouds' Views Counter](https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic) 
 
 ![deesclouds' GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesclouds&show_icons=true&theme=tokyonight) 
 
