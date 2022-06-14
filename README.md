@@ -8,6 +8,8 @@
 
 <h3 align="center">I'm a Software Engineer, Cat Dad & Curator of Magical Experiences.</h3>
 
+<p align="center">I've been developing my software engineering and digital marketing abilities for the past year with the express purpose of bringing my artistic dreams to life through code. I was enthralled not just by the experience of painting, but also by software and marketing and the opportunity to communicate my views to the world.</p>
+
  * 🌴 Residing in Long Beach, California
  * 🔭 Working on building APIs.
  * 🌱 Learning Javascript, React, NodeJS, ExpressJS, & MongoDB. 
