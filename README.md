@@ -15,7 +15,7 @@
  * 🔭 Working on building APIs and bots.
  * 🌱 Learning Javascript, Python, VueJS, React, NodeJS, ExpressJS, & MongoDB. 
  * 👯 Looking to freelance and collaborate on Open Source Projects. 
- * 💬 Ask me about what I've learned recently.
+ * 💬 I am having lots of fun learning Astro.
  * 📫 How to reach me: Twitter - @deesclouds
  * 😄 Pronouns: He/Him | They/Them
  * ⚡ Fun fact: I love house music especially while coding.
