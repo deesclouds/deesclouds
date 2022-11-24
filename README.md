@@ -21,7 +21,7 @@
  * ⚡ Fun fact: I love house music especially while coding.
 
 <p>View my portfolio here: <a href="https://deesclouds.world">Portfolio</a></p>
-<p>Check out my resume here: <a href="https//deesclouds.world">Resume</a></p>
+<p>Check out my resume here: <a href="https//deesclouds.world/resume.html">Resume</a></p>
 
 ## Languages and Tools:
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,heroku,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=5" alt="language and tools"/></p>
