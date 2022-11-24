@@ -24,7 +24,7 @@ View my portfolio here: <a href="https://deesclouds.world">Portfolio</a>
 Check out my resume here: <a href="https//deesclouds.world">Resume</a>
 Connect with me here: <a href="https://linkedin.com/in/deesclouds">LinkedIn</a>
 Reach me via email: <a href="mailto: davis.d711@proton.me">Email</a>
-Call or Text me here: <a href="tel:+1562-294-4607>Call"</a>
+Call or Text me here: <a href="tel:+1562-294-4607">Call/Text</a>
 
 ## Languages and Tools:
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,heroku,py,git,bash,cs,linux,vscode,powershell,dotnet,azure&theme=dark&perline=5" alt="language and tools"/></p>
