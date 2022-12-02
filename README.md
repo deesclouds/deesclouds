@@ -38,6 +38,6 @@
 ## Holopin Board:
  [![@deesclouds's Holopin board](https://holopin.io/api/user/board?user=deesclouds)](https://holopin.io/@deesclouds)
 
-
+DISCLAIMER: I'm always coding and my contribution graph does not reflect when I am pushing code to private repos.
 
  
