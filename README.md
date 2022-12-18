@@ -18,7 +18,7 @@
  * 💬 Fun learning Astro.
  * 📫 How to reach me: Twitter - @deesclouds
  * 😄 Pronouns: He/Him | They/Them
- * ⚡ Fun fact: I love house music especially while coding.
+ * ⚡ Fun fact: I love house music especially while coding. I also carried a mattress across town when I was a bike messenger in NYC.
 
 <p>View my <a href="https://deesclouds.world">Portfolio</a>.</p>
 <p>Check out my <a href="https//deesclouds.world/resume.html">Resume</a>.</p>
