@@ -12,10 +12,10 @@
 <p align="left">I've been developing my software engineering and digital marketing abilities with the express purpose of bringing my dreams to life through code. I am enthralled by the experience of communicating my views to the world.</p>
 
  * 🌴 Residing in Long Beach, California
- * 🔭 Working on building APIs and bots.
+ * 🔭 Working on building APIs and Front-End.
  * 🌱 Learning Javascript, Python, VueJS, React, NodeJS, ExpressJS, & MongoDB. 
- * 👯 Looking to freelance and collaborate on Open Source Projects. 
- * 💬 Fun learning Astro.
+ * 👯 Open to work and collaborate on Open Source Projects. 
+ * 💬 Fun learning Astro and Wilco.
  * 📫 How to reach me: Twitter - @deesclouds
  * 😄 Pronouns: He/Him | They/Them
  * ⚡ Fun fact: I love house music especially while coding. I also carried a mattress across town when I was a bike messenger in NYC.
