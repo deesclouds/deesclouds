@@ -22,7 +22,7 @@
 
 <p>View my <a href="https://deesclouds.world">Portfolio</a>.</p>
 <p>Check out my <a href="https//deesclouds.world/resume.html">Resume</a>.</p>
-<p>Check out my <a href="https//deescloud.xyz">Blog</a>.</p>
+<p>Read my <a href="https//deescloud.xyz">Blog</a>.</p>
 
 ## Languages and Tools:
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,firebase,gcp,nodejs,express,py,mongodb,git,bash,linux,vscode,azure,netlify,astro&theme=dark&perline=5" alt="language and tools"/></p>
