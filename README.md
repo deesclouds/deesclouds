@@ -1,23 +1,24 @@
 ![deesclouds-banner-github](https://github.com/deesclouds/deesclouds/assets/77818241/f045b1d0-79cd-4ad7-82d8-239f92c756c6)
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hello"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hello"> Greetings Lifeform! I'm Darnell Davis. 😊 </h1>
 
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=deesclouds&color=bf91f3&label=INTELLIGENT+LIFEFORMS+VISITED:&style=plastic" alt="visitor counter"/></p>
 
-<h3 align="center">I'm a Software Engineer, Cat Dad & Curator of Magical Experiences.</h3>
+<h3 align="center">I'm a Vegan Consultant, Front-End Web Developer, Cat Dad & Pet Care Specialist.</h3>
 
-<p align="left">I've been developing my software engineering and digital marketing abilities with the express purpose of bringing my dreams to life through code. I am enthralled by the experience of communicating my views to the world.</p>
+<p align="left">I am enthralled by helping people solve problems, whether that may be through consulting with restaurants helping to create veganized dishes, building web and mobile applications for local small businesses, and helping pet owners provide the best possible care for their fur babies. </p>
 
  * 🌴 Residing in Long Beach, California
- * 🔭 Working on building APIs and Front-End.
- * 🌱 Learning Javascript, Python, VueJS, React, NodeJS, ExpressJS, & MongoDB. 
- * 👯 Open to work and collaborate on Open Source Projects. 
- * 💬 Fun learning Astro and Wilco.
+ * 🔭 Working on not being so hard on myself.
+ * 🌱 Continuously learning and improving my Javascript, Python, VueJS, React & MongoDB. 
+ * 👯 Open to work and collaborate on fun and silly projects. 
+ * 💬 Building a web and mobile application for my Vegan Consultancy business.
  * 📫 How to reach me: Twitter - @deesclouds
  * 😄 Pronouns: He/Him | They/Them
  * ⚡ Fun fact: I love house music especially while coding. I also carried a mattress across town when I was a bike messenger in NYC.
+
 
 <p>View my <a href="https://deesclouds.world">Portfolio</a>.</p>
 <p>Check out my <a href="https://deesclouds.world/resume.html">Resume</a>.</p>
@@ -37,7 +38,5 @@
 
 ## Holopin Board:
  [![@deesclouds's Holopin board](https://holopin.io/api/user/board?user=deesclouds)](https://holopin.io/@deesclouds)
-
-DISCLAIMER: I'm always coding and my contribution graph does not reflect when I am pushing code to private repos.
 
  
