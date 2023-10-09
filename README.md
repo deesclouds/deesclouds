@@ -1,5 +1,4 @@
-![deesclouds-banner-github](https://user-images.githubusercontent.com/77818241/225127924-417ec697-c4fd-4626-9422-042271f015f8.png)
-
+![deesclouds-banner-github](https://github.com/deesclouds/deesclouds/assets/77818241/f045b1d0-79cd-4ad7-82d8-239f92c756c6)
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hello"> Hello there! I'm Darnell "Dee" Davis. 😊 </h1>
 
