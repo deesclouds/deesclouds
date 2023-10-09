@@ -25,9 +25,6 @@
 
 ## Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deesclouds&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true&hide_rank=true" alt="gist card"></p> 
- 
-## Holopin Board:
- [![@deesclouds's Holopin board](https://holopin.io/api/user/board?user=deesclouds)](https://holopin.io/@deesclouds)
 
  ## Connect w/ Darnell:
 <p align="center">
